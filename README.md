@@ -2,9 +2,9 @@
 
 Este repositorio contiene el desarrollo del examen en 3 etapas, trabajando con datos extraidos del Banco Mundial.
 
-Etapa 1: Analisis descriptivo e imputacion de datos
-Etapa 2: Reduccion de dimensionalidad con PCA
-Etapa 3: Modelacion con algoritmos de clasificacion
+- Etapa 1: Analisis descriptivo e imputacion de datos
+- Etapa 2: Reduccion de dimensionalidad con PCA
+- Etapa 3: Modelacion con algoritmos de clasificacion
 
 Oranizacion en GitHub:
 - La rama "main" mantiene la version consolidada
